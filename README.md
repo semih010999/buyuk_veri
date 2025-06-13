@@ -82,9 +82,3 @@ Tahmin sistemi, kullanıcının verdiği hareket verileri üzerinden **Random Fo
 - https://www.kaggle.com/datasets/emstatsl/csgo-cheating-dataset
 - https://bo3.gg/tr/articles/best-cs2-cheats
 - https://www.faceit.com/en/anti-cheat
-
----
-
-> 🧑‍🎓 Proje Sahibi: Semih Eseroğlu  
-> 🎓 Ders: MYAZ468 - Büyük Veri Uygulamaları  
-> 👨‍🏫 Danışman: Dr. Öğr. Üyesi Özgür Tonkal
